@@ -1,17 +1,20 @@
-### Hi there 👋
+### 🌱 Newbie developer 🌱
+----
+:smirk_cat: I'm looking forward to launching my own service. This is my new challenge.
+>
+So I start learning from a couple of years ago, dev skills & algorithm. 
+>
+Now I'm not good enough but I hope I can make it!
 
-<!--
-**rzrcat/rzrcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+#### Until Now What I have learned...
+- C / C++
+- C#
+- Swift 
+- Python
+- JAVA 
+- SQL 
+- CS basic things..
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzrcat&show_icons=true&icon_color=5A81FF&bg_color=5,cffffc,F7EBFF&title_color=5A81FF&text_color=354B96)
