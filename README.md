@@ -1,4 +1,4 @@
-### 🌱 Newbie developer 🌱
+### 🌱 Newbie Developer 🌱
 ----
 :smirk_cat: I'm looking forward to launching my own service. This is my new challenge.
 >
